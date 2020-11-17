@@ -14,6 +14,8 @@
 #### 1. 엘리의 비쥬얼 스튜디오 셋팅이 궁금해요
 [비쥬얼 스튜디오 설치 & 익스텐션](https://youtu.be/bS9yTI2fC0w)
 
+[Emmet 영상 제일 마지막에 익스텐션 하나더](https://youtu.be/m7wsrVQsVjI)
+
 [주석 코드 색상 엘리와 똑같이 바꾸기](https://youtu.be/2UaKfAz-eEI)
 
 #### 2. 왜 저는 모든 문자열이 다 출력 되나요? 
