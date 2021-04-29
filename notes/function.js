@@ -21,7 +21,7 @@ log('Hello@');
 log(1234);
 
 // 2. Parameters
-// premitive parameters: passed by value
+// primitive parameters: passed by value
 // object parameters: passed by reference
 function changeName(obj) {
   obj.name = 'coder';
@@ -94,7 +94,7 @@ function upgradeUser(user) {
 // can be returned by another function
 
 // 1. Function expression
-// a function declaration can be called earlier than it is defiend. (hoisted)
+// a function declaration can be called earlier than it is defined. (hoisted)
 // a function expression is created when the execution reaches it.
 const print = function () {
   // anonymous function
@@ -163,7 +163,7 @@ function calculate(command, a, b) {
     case 'remainder':
       return a % b;
     default:
-      throw Error('unkonwn command');
+      throw Error('unknown command');
   }
 }
 console.log(calculate('add', 2, 3));
