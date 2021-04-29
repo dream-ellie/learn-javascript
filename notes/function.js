@@ -94,7 +94,7 @@ function upgradeUser(user) {
 // can be returned by another function
 
 // 1. Function expression
-// a function declaration can be called earlier than it is defind. (hoisted)
+// a function declaration can be called earlier than it is defined. (hoisted)
 // a function expression is created when the execution reaches it.
 const print = function () {
   // anonymous function
