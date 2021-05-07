@@ -47,6 +47,6 @@ userStorage
 
 // Homework Answer 🚀
 userStorage
-  .getUserWithRole() //
+  .getUserWithRole(id, password) //
   .catch(console.log)
   .then(console.log);
