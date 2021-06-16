@@ -29,8 +29,8 @@ class UserStorage {
 
   // Homework Answer 🚀
   async getUserWithRole(user, password) {
-    const user = await this.loginUser(user, password);
-    const role = await this.getRoles(user);
+    const id = await this.loginUser(user, password);
+    const role = await this.getRoles(id);
     return role;
   }
 }
