@@ -21,7 +21,7 @@ console.log(globalName);
 // has no block scope
 {
   age = 4;
-  var age;
+  let age;
 }
 console.log(age);
 
